@@ -28,3 +28,7 @@ name = "Renata"
 print(name[0:3])
 print(name[0:4])
 print(name[0:5])
+
+# String length
+name = "Renata"
+print(len(name))
