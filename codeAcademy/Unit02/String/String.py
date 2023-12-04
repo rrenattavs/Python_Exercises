@@ -32,3 +32,9 @@ print(name[0:5])
 # String length
 name = "Renata"
 print(len(name))
+
+# String methods
+name = "Renata"
+print(name.upper())
+print(name.lower())
+print(name.title())
