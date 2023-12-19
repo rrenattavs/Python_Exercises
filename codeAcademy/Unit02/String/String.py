@@ -38,3 +38,8 @@ name = "Renata"
 print(name.upper())
 print(name.lower())
 print(name.title())
+
+# String formatting
+name = "Renata"
+print(f"I'm {name}")
+
