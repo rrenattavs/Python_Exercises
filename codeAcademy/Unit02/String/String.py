@@ -40,8 +40,8 @@ print(name.lower())
 print(name.title())
 
 # String formatting
-name = "Renata"
-print(f"I'm {name}")
+lastName = "Surname"
+print(f"I'm {lastName}")
 
 # String methods
 name = "Renata"
@@ -55,4 +55,4 @@ age = 25
 message = "My name is " + name + " and I am " + str(age) + " years old."
 print(message)
 
-
+# 
