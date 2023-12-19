@@ -43,3 +43,9 @@ print(name.title())
 name = "Renata"
 print(f"I'm {name}")
 
+# String methods
+name = "Renata"
+print(name.upper())  # Output: RENATA
+print(name.lower())  # Output: renata
+print(name.title())  # Output: Renata
+
