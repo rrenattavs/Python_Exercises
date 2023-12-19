@@ -20,3 +20,7 @@ def datetime():
     print(now.hour)
     print(now.minute)
     print(now.second)
+
+# codeAcademy/Unit02/Date and Time/datetime_.py:datetime()
+datetime()
+
