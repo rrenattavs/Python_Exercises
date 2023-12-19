@@ -49,3 +49,10 @@ print(name.upper())  # Output: RENATA
 print(name.lower())  # Output: renata
 print(name.title())  # Output: Renata
 
+# String concatenation
+name = "Renata"
+age = 25
+message = "My name is " + name + " and I am " + str(age) + " years old."
+print(message)
+
+
